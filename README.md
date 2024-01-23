@@ -1,6 +1,6 @@
 # NoteX Privacy Policy
 
-Last Updated: [Date]
+Last Updated: 1/23/2024
 
 ## 1. Hey, NoteX Users!
 
@@ -42,7 +42,7 @@ This Privacy Policy might get a facelift now and then. If it does, we'll let you
 
 ## 8. Contact Us
 
-Questions, cheers, or just want to chat? Drop us a line at [your contact email]. We're all ears!
+Questions, cheers, or just want to chat? Drop us a line at afghandev124@gmail.com. We're all ears!
 
 Rock on with your notes, NoteX squad! 🤘✨
 
